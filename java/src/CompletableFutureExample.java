@@ -10,6 +10,5 @@ public class CompletableFutureExample {
         );
 
         future1.thenAccept(System.out::println);
-
     }
 }
